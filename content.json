@@ -36,11 +36,11 @@
  "type": "pdf", 
  "url": "https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf"
 },
-{"name": "Bash cheatsheet", 
+{"name": "Bash String Manipulation", 
  "tag": "bash", 
- "footer": {"text": "ubuntu-maryland", "url": "https://ubuntu-maryland.org"}, 
+ "footer": {"text": "Info", "url": "https://gist.github.com/magnetikonline/90d6fe30fc247ef110a1"}, 
  "type": "pdf", 
- "url": "https://ubuntu-maryland.org/presentations/reference_bash-cheat.pdf"
+ "url": "cache/reference_bash_string_manipulation.pdf"
 },
 {"name": "Matplotlib cheatsheet", 
  "tag": "matplot", 
