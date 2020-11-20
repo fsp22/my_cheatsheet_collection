@@ -1,0 +1,57 @@
+[
+{"name": "Bash cheatsheet", 
+ "tag": "bash", 
+ "footer": {"text": "ubuntu-maryland", "url": "https://ubuntu-maryland.org"}, 
+ "type": "pdf", 
+ "url": "https://ubuntu-maryland.org/presentations/reference_bash-cheat.pdf"
+},
+{"name": "Latex cheatsheet", 
+ "tag": "latex", 
+ "footer": {"text": "wch.github.io", "url": "https://wch.github.io/latexsheet/"}, 
+ "type": "pdf", 
+ "url": "https://wch.github.io/latexsheet/latexsheet-a4.pdf"
+},
+{"name": "Latex Math", 
+ "tag": "latex",
+ "type": "pdf", 
+ "url": "http://tug.ctan.org/info/undergradmath/undergradmath.pdf"
+},
+{"name": "Latex full guide", 
+ "tag": "latex", 
+ "footer": {"text": "http://www.icl.utk.edu/~mgates3/docs/", "url": "http://www.icl.utk.edu/~mgates3/docs/"}, 
+ "type": "pdf", 
+ "url": "http://www.icl.utk.edu/~mgates3/docs/latex.pdf"
+},
+{"name": "Latex symbols", 
+ "tag": "latex", 
+ "footer": {"text": "Overleaf template", 
+            "url": "https://it.overleaf.com/latex/templates/symbol-table/fhqmttqvrnhk"}, 
+ "type": "pdf", 
+ "url": "cache/latex_symbol_table.pdf"
+},
+{"name": "Pandas CheatSheet", 
+ "tag": "pandas", 
+ "footer": {"text": "Pandas CheatSheet", 
+            "url": "https://pandas.pydata.org"}, 
+ "type": "pdf", 
+ "url": "https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf"
+},
+{"name": "Bash cheatsheet", 
+ "tag": "bash", 
+ "footer": {"text": "ubuntu-maryland", "url": "https://ubuntu-maryland.org"}, 
+ "type": "pdf", 
+ "url": "https://ubuntu-maryland.org/presentations/reference_bash-cheat.pdf"
+},
+{"name": "Matplotlib cheatsheet", 
+ "tag": "matplot", 
+ "footer": {"text": "datacamp.com", "url": "https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet"}, 
+ "type": "pdf", 
+ "url": "https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf"
+},
+{"name": "Matrix cookbook", 
+ "tag": "algebra", 
+ "footer": {"text": "Thanks to Henry Wolkowicz", "url": "https://www.math.uwaterloo.ca/~hwolkowi/"}, 
+ "type": "pdf", 
+ "url": "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf"
+}
+]
