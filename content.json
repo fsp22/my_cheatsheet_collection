@@ -53,5 +53,11 @@
  "footer": {"text": "Thanks to Henry Wolkowicz", "url": "https://www.math.uwaterloo.ca/~hwolkowi/"}, 
  "type": "pdf", 
  "url": "https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf"
+},
+{"name": "Comando At", 
+ "tag": "bash", 
+ "footer": {"text": "Thanks to linuxize.com", "url": "https://linuxize.com/post/at-command-in-linux/"}, 
+ "type": "pdf", 
+ "url": "cache/at_command_linux.pdf"
 }
 ]
