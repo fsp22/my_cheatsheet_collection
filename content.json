@@ -59,5 +59,11 @@
  "footer": {"text": "Thanks to linuxize.com", "url": "https://linuxize.com/post/at-command-in-linux/"}, 
  "type": "pdf", 
  "url": "cache/at_command_linux.pdf"
+},
+{"name": "Gnu Screen", 
+ "tag": "bash", 
+ "footer": {"text": "Thanks to mynocksonmyfalcon", "url": "https://cheatography.com/mynocksonmyfalcon/cheat-sheets/gnu-screen/"}, 
+ "type": "pdf", 
+ "url": "cache/gnu-screen.pdf"
 }
 ]
