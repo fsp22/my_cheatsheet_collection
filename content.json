@@ -65,5 +65,11 @@
  "footer": {"text": "Thanks to mynocksonmyfalcon", "url": "https://cheatography.com/mynocksonmyfalcon/cheat-sheets/gnu-screen/"}, 
  "type": "pdf", 
  "url": "cache/gnu-screen.pdf"
+},
+{"name": "Conda", 
+ "tag": "python", 
+ "footer": {"text": "Thanks to anaconda.org", "url": "https://anaconda.org/"}, 
+ "type": "pdf", 
+ "url": "https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf"
 }
 ]
