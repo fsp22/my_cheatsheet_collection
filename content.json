@@ -72,4 +72,11 @@
  "type": "pdf", 
  "url": "https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf"
 }
+,
+{"name": "Nano", 
+ "tag": "bash, linux, nano", 
+ "footer": {"text": "Thanks to nano community", "url": "https://www.nano-editor.org"}, 
+ "type": "pdf", 
+ "url": "cache/nano_cheatsheet.pdf"
+}
 ]
