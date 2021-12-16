@@ -13,8 +13,10 @@
 },
 {"name": "Latex Math", 
  "tag": "latex",
- "type": "pdf", 
- "url": "http://tug.ctan.org/info/undergradmath/undergradmath.pdf"
+ "type": "pdf",
+ "footer": {"text": "undergradmath.pdf", 
+            "url": "http://tug.ctan.org/info/undergradmath/undergradmath.pdf"},
+ "url": "cache/undergradmath.pdf"
 },
 {"name": "Latex full guide", 
  "tag": "latex", 
