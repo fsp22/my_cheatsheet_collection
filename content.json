@@ -73,12 +73,23 @@
  "footer": {"text": "Thanks to anaconda.org", "url": "https://anaconda.org/"}, 
  "type": "pdf", 
  "url": "https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf"
-}
-,
+},
 {"name": "Nano", 
  "tag": "bash, linux, nano", 
  "footer": {"text": "Thanks to nano community", "url": "https://www.nano-editor.org"}, 
  "type": "pdf", 
  "url": "cache/nano_cheatsheet.pdf"
+},
+{"name": "Latex equation package guide (amsmath)", 
+ "tag": "latex", 
+ "footer": {"text": "Thanks to tug.org", "url": "https://www.tug.org"}, 
+ "type": "pdf", 
+ "url": "https://www.tug.org/teTeX/tetex-texmfdist/doc/latex/amsmath/amsldoc.pdf"
+},
+{"name": "Python Pathlib module", 
+ "tag": "python", 
+ "footer": {"text": "Thanks to everydaysuperpowers.dev", "url": "https://everydaysuperpowers.dev"}, 
+ "type": "pdf", 
+ "url": "https://everydaysuperpowers.dev/documents/2/pathlib_cheat_sheet-V1_200703.pdf"
 }
 ]
