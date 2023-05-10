@@ -91,5 +91,11 @@
  "footer": {"text": "Thanks to everydaysuperpowers.dev", "url": "https://everydaysuperpowers.dev"}, 
  "type": "pdf", 
  "url": "https://everydaysuperpowers.dev/documents/2/pathlib_cheat_sheet-V1_200703.pdf"
+},
+{"name": "Tmux", 
+ "tag": "linux, tmux", 
+ "footer": {"text": "Thanks to comtronic", "url": "http://www.comtronic.com.au/"}, 
+ "type": "pdf", 
+ "url": "cache/cheatsheet_tmux_A4.pdf"
 }
 ]
