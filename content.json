@@ -97,5 +97,11 @@
  "footer": {"text": "Thanks to comtronic", "url": "http://www.comtronic.com.au/"}, 
  "type": "pdf", 
  "url": "cache/cheatsheet_tmux_A4.pdf"
+},
+{"name": "Pipx", 
+ "tag": "python, pip", 
+ "footer": {"text": "Thanks to realpython.com", "url": "https://realpython.com"}, 
+ "type": "pdf", 
+ "url": "cache/python-pipx-cheatsheet.pdf"
 }
 ]
